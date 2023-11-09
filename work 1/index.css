@@ -1,0 +1,99 @@
+h1 {
+  text-align: center;
+  background-color: rgb(150, 105, 134);
+  color: rgb(33, 3, 26);
+  padding: 30px;
+  margin: 0px;
+}
+
+
+.container1 {
+ background-color: rgb(208, 204, 208); 
+ padding: 20px;
+ padding-left: 100px;
+ margin: auto;
+ 
+ 
+  
+}
+
+.sec1{
+  margin-bottom: 20px;
+}
+
+
+.second {
+  color: rgb(87, 13, 87);
+  background-color: rgb(214, 177, 177);
+  border: 2px solid rgb(157, 67, 130);
+  margin-left: 250px;
+  margin-right: 50px;
+  font-size: 20px;
+  
+}
+
+.third {
+  color: rgb(194, 54, 49);
+  font-size: 20px;
+
+}
+
+.box1{
+ 
+  background-color: rgb(189, 164, 236);
+  border: 2px; 
+   margin-left: 368px; 
+   margin-right: 50px;
+   font-size: 20px;
+   
+   
+}
+
+.box1 a{
+  color: rgb(11, 11, 69);
+
+}
+
+.box2{
+  
+  background-color: rgb(237, 219, 148);
+  border: 2px; 
+  margin-left: 10px; 
+   margin-right: 50px;
+   font-size: 20px;
+   
+}
+.box2 a{
+  color: rgb(168, 77, 3);
+
+}
+
+.box3{
+  
+  background-color: rgb(245, 131, 108);
+  border: 2px; 
+  margin-left: 10px; 
+   margin-right: 50px;
+   font-size: 20px;
+   
+}
+.box3 a{
+  color: rgb(95, 7, 7);
+
+}
+
+
+.box4{
+  
+  background-color: rgb(147, 245, 108);
+  border: 2px; 
+  margin-left: 10px; 
+   margin-right: 50px;
+   font-size: 20px;
+   
+}
+.box4 a{
+  color: rgb(3, 56, 19);
+
+}
+
